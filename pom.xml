@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.itsc</groupId>
-	<artifactId>LabExam</artifactId>
+	<artifactId>BookInventory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LabExam</name>
 	<description>Enterprise Application Development Lab Exam</description>
@@ -39,6 +39,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+		<dependency>
+			<groupId>com.mysql</groupId>
+			<artifactId>mysql-connector-j</artifactId>
 		</dependency>
 	</dependencies>
 

@@ -1,10 +1,10 @@
-package com.itsc.LabExam;
+package com.itsc.bookInventory;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LabExamApplicationTests {
+class BookInventoryApplicationTests {
 
 	@Test
 	void contextLoads() {
