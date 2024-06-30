@@ -1,4 +1,4 @@
-# Enterprise Application Development
+# Enterprise Application Development - Lab Exam
 ## Done by:
 
 <pre>
